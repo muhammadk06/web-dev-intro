@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+
+div{
+    background-color: aquamarine;
+}
+
+@media screen and (min-width: 1400px) and (max-width: 1920px){
+    div{
+        background-color: orange;
+    }
+}
